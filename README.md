@@ -4,7 +4,7 @@ make sure c++11 installed and windows.h existed on platform.
 
 ```sh
 # To Build:
-g++ -std=c++11 src/chip8.cpp src/debugger.cpp src/main.cpp -o deneme
+g++ -std=c++11 src/chip8.cpp src/debugger.cpp src/main.cpp -o executable
 ```
 
 ![screenshot](screenshots/1.jpg)
