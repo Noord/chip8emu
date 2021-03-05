@@ -9,4 +9,4 @@ g++ -std=c++11 src/chip8.cpp src/debugger.cpp src/main.cpp -o deneme
 
 ![screenshot](screenshots/1.jpg)
 
-Display is not currently implemented
+Keypad interaction is not currently implemented
